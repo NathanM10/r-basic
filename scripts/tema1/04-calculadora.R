@@ -49,7 +49,7 @@ NaN
 
 c(2^30, 2^(-15), 1, 2, 3/2)
 
-
+# Raiz cuadrada
 sqrt(25)
 
 exp(1)
